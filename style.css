@@ -1,0 +1,15 @@
+.title{
+    font-family: 'Fredoka One';
+    color: #f7339f;
+    text-align: center;
+}
+.paragrafo{
+    text-align: center;
+}
+
+.male1{
+    border: 2px solid black;
+    width: 450px;
+    height: 200px;
+    background-color: black;
+}
